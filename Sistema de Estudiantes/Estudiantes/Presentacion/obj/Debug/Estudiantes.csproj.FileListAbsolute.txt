@@ -1,0 +1,49 @@
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csprojAssemblyReference.cache
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Logica.dll
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Logica.pdb
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CopyComplete
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Data.dll
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\linq2db.dll
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Data.pdb
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\linq2db.pdb
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\linq2db.xml
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Google.Protobuf.dll
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\MySql.Data.dll
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Renci.SshNet.dll
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Google.Protobuf.xml
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\MySql.Data.xml
+C:\Users\AJpag\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Renci.SshNet.xml
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\Data.dll
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\Google.Protobuf.dll
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\linq2db.dll
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\Logica.dll
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\MySql.Data.dll
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\Renci.SshNet.dll
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\Data.pdb
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\Logica.pdb
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\Google.Protobuf.xml
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\linq2db.pdb
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\linq2db.xml
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\MySql.Data.xml
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\bin\Debug\Renci.SshNet.xml
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CopyComplete
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Cristian Fernandez\Curso C# .net\Proyecto Estudiantes\16Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
